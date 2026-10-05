@@ -1,0 +1,4 @@
+output.mp4
+yolo11n.pt
+__pycache__/
+*.pyc
